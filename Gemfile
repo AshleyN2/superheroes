@@ -28,3 +28,6 @@ group :development do
   # gem "spring"
 end
 
+# Serializer gem helps handle associations you have in models
+gem 'active_model_serializers'
+
