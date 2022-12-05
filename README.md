@@ -3,7 +3,7 @@ An API for tracking heroes and their superpowers.
 
 For this project:
 - Create a Rails API backend.
-- Have at least three resources (three DB tables).
+- Have at least three resources(three DB tables).
 
 
 
